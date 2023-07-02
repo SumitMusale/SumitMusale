@@ -21,6 +21,7 @@
 
 ## `Projects:`
 ### [Stock Market Price Prediction](https://github.com/SumitMusale/Stock_price_prediction.git)
+### [Resume Classification](https://github.com/SumitMusale/Resume_Classification)
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmusale&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
